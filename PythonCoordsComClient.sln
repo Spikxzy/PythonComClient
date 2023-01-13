@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCoordsComClient", "PythonCoordsComClient\PythonCoordsComClient.pyproj", "{EEABAD59-37F2-4B8D-AD01-8DA2912CD113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEABAD59-37F2-4B8D-AD01-8DA2912CD113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEABAD59-37F2-4B8D-AD01-8DA2912CD113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40024991-08F9-42A3-85C8-71127F8D7C9D}
+	EndGlobalSection
+EndGlobal
